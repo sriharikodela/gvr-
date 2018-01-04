@@ -1,4 +1,9 @@
+<<<<<<< HEAD
  hru andh
 
 and what elsse  nd thanks
 
+=======
+ hru andh 
+what aru doiong and waht else 
+>>>>>>> 92c013b1f3bb587626d6af72cb84fea32aa3b605
