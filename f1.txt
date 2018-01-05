@@ -1,1 +1,8 @@
 hio  d
+
+hru this is second
+<<<<<<< HEAD
+
+this is third
+=======
+>>>>>>> e5c9701b7143fbabc2369b4f6933868583c30017
